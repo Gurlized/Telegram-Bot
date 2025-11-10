@@ -60,11 +60,13 @@ pip install python-telegram-bot requests
 Create a file named .env and add:
 
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
+
 GOPHER_API_KEY=your_gopher_api_key
 
 Or you can edit directly in main.py:
 
 BOT_TOKEN = "your_telegram_bot_token"
+
 GOPHER_API_KEY = "your_gopher_api_key"
 
 
@@ -79,7 +81,9 @@ python main.py
 If successful, the console will show:
 
 🤖 Bot is starting...
+
 📱 Bot Token: 1234567890...
+
 🔄 Bot is running with polling...
 
 Then open your bot in Telegram and type:
@@ -94,8 +98,11 @@ Then open your bot in Telegram and type:
 Command	Description
 
 /start	Greet and show welcome message
+
 /help	Display help and available commands
+
 /info	Show bot information
+
 /search <query>	Search data from Gopher AI
 Any text	Echo back your message
 
@@ -106,10 +113,11 @@ Any text	Echo back your message
 🧰 File Structure
 
 📁 gopher-explore-bot/
- ┣ 📄 main.py              # Main bot script
- ┣ 📄 requirements.txt     # Python dependencies
- ┣ 📄 README.md            # Documentation (this file)
- ┣ 📄 bot.log              # Log file (auto-generated)
+
+┣ 📄 main.py              # Main bot script
+┣ 📄 requirements.txt     # Python dependencies
+┣ 📄 README.md            # Documentation
+┣ 📄 bot.log              # Log file
 
 
 ---
