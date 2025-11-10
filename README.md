@@ -1,4 +1,4 @@
-🤖 Gopher Explore Bot
+🤖 Telegram Gopher Explore Bot
 
 Gopher Explore Bot is a Python-based Telegram bot integrated with Gopher AI.
 It allows users to search, analyze, and explore live data from platforms like Twitter (X), Reddit, TikTok, and more — directly from Telegram.
