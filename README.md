@@ -115,8 +115,11 @@ Any text	Echo back your message
 📁 gopher-explore-bot/
 
 ┣ 📄 main.py              # Main bot script
+
 ┣ 📄 requirements.txt     # Python dependencies
+
 ┣ 📄 README.md            # Documentation
+
 ┣ 📄 bot.log              # Log file
 
 
