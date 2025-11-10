@@ -1,0 +1,17 @@
+INFO - 🤖 Bot is starting...
+INFO - Connected to Telegram API successfully
+INFO - Bot polling started...
+
+INFO - User 621234567 (username: @techguy) executed command: /start
+INFO - Sent welcome message to user 621234567
+
+INFO - User 621234567 requested search for keyword: "AI trends"
+INFO - Query sent to Gopher API: https://data.gopher-ai.com/search?query=AI+trends
+INFO - Gopher API responded with 5 results
+INFO - Results successfully sent to Telegram
+
+ERROR - API request failed: TimeoutError
+INFO - Retrying request... (attempt 2)
+INFO - Retry successful.
+
+INFO - Bot stopped by user or system interrupt.
